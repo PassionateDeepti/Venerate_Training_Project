@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "JulyTraining2021",
+  "namespace": "",
+  "sfdcLoginUrl": "https://developer.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
